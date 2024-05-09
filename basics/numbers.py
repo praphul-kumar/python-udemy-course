@@ -42,3 +42,14 @@ print(type(4.1)) # <class 'float'>
 # Ex: if we perform an addition between int and float the result will be float
 print(2 + 2.5) # 4.5
 
+"""
+    Learning some math functions avialable in Python
+"""
+
+# round() : rounds the given floating point number to nearest interger value
+print(round(3.6)) # 4
+print(round(4.2)) # 4
+
+# abs(): returns the absolute (positive number) number for given parameter
+print(abs(-20)) # 20
+print(abs(-5.5)) # 5.5
