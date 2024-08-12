@@ -10,3 +10,13 @@
         1. While loop
         2. for loop
 """
+
+# Running Loops on string
+for item in "Learning Machine learning":
+    print(item, end="")
+    
+print ('')
+
+# Running loops on List
+for item in [1, 2, 3, 4, 5]:
+    print(item)
